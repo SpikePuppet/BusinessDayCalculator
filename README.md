@@ -11,7 +11,7 @@ A simple API to calculate the business days between two date, created using the 
 2. Open the command prompt and navigate to the the project
 3. Then navigate to the folder called "WebEndpoints"
 4. Run *dotnet run* in the command prompt and wait for the program to start up
-5. Open your Postmane/Fiddler/whatever tool you chose above and create a POST request which will be sent to **http://localhost:5000/calculate-business-days**. The body of the request should look like this:
+5. Open your Postmane/Fiddler/whatever tool you chose above and create a POST request with the URL **http://localhost:5000/calculate-business-days**. The body of the request should look like this:
 ```
 {
   "StartDate": "2020-04-08T00:00:00.000",
