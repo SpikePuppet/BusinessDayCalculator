@@ -3,7 +3,7 @@ A simple API to calculate the business days between two date, created using the 
 
 ## Requirements
 1. .NET Core 3.1 is required to run this API. If you do not have this installed, please visit [this site](https://dotnet.microsoft.com/download/dotnet-core/3.1) and download/install the SDK version 3.1.2 (this comes with the command line tools which will be required later).
-..* For reference i believe any version of 3.1 will work, though this is untested.
+  * For reference i believe any version of 3.1 will work, though this is untested.
 2. You should have Postman/Fiddler/Any other http tool which you can use to send a POST request with a custom body
 
 ## How to use the calculator
